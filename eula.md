@@ -1,10 +1,10 @@
 # End-User License Agreement (EULA)
 
-**Last Updated:** [DATE]
+**Last Updated:** 7/18/2025
 
 ## 1. Agreement to Terms
 
-By downloading, installing, or using [YOUR APP NAME] ("the Application"), you agree to be bound by the terms of this End-User License Agreement ("Agreement"). If you do not agree to the terms of this Agreement, do not use the Application.
+By downloading, installing, or using QBooks Integration ("the Application"), you agree to be bound by the terms of this End-User License Agreement ("Agreement"). If you do not agree to the terms of this Agreement, do not use the Application.
 
 ## 2. License Grant
 
@@ -44,7 +44,7 @@ We reserve the right to update this Agreement at any time. Continued use of the 
 
 ## 9. Governing Law
 
-This Agreement shall be governed by the laws of [YOUR JURISDICTION].
+The laws of Arizona, United States of America, shall govern this Agreement.
 
 ## 10. Contact Information
 
